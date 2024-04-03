@@ -1,4 +1,4 @@
-'''
+```
 # steps to build project
 
 django-admin startproject DjangoRestApp .
@@ -26,4 +26,5 @@ python manage.py runserver 127.0.0.1:80
 
 curl -s http://127.0.0.1:80/api/artifacts/ | python -m json.tool
 curl -s -X POST -d "name=post_new_item" -d "shiny=True" http://127.0.0.1:80/api/artifacts/
-'''
+
+```
