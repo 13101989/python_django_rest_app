@@ -17,10 +17,11 @@ python manage.py startapp BooksApp
 python manage.py makemigrations BooksApp
 python manage.py migrate
 
-
 python manage.py startapp VehiclesApp
 python manage.py makemigrations VehiclesApp
 python manage.py migrate
+
+python manage.py startapp SinglePageApp
 
 python manage.py runserver 127.0.0.1:80
 

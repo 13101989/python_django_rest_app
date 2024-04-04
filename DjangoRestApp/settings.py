@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "ArtifactsApp",
     "BooksApp",
     "VehiclesApp",
+    "SinglePageApp",
 ]
 
 MIDDLEWARE = [

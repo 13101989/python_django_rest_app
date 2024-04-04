@@ -9,4 +9,5 @@ urlpatterns = [
     path("api/", include("ArtifactsApp.urls")),
     path("api/", include("BooksApp.urls")),
     path("api/", include("VehiclesApp.urls")),
+    path("api/", include("SinglePageApp.urls")),
 ]
