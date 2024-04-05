@@ -9,6 +9,7 @@ and adding Permissions and Authorizations to users.
 
 django-admin startproject DjangoRestApp .
 python manage.py migrate
+
 python manage.py createsuperuser
 
 python manage.py startapp PeopleApp
