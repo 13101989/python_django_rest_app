@@ -1,4 +1,4 @@
-```
+```bash
 # Django Rest Framework Learning Project
 
 This is a Django project with multiple basic apps designed to help in learning the Django Rest  
