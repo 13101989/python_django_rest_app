@@ -1,12 +1,14 @@
-```bash
 # Django Rest Framework Learning Project
 
+```bash
 This is a Django project with multiple basic apps designed to help in learning the Django Rest  
 Framework. The project covers various aspects of the framework, including ViewSets, Models, Serializers,  
 and adding Permissions and Authorizations to users.
+```
 
-## Steps to build project
+# Steps to build project
 
+```bash
 django-admin startproject DjangoRestApp .
 python manage.py migrate
 
